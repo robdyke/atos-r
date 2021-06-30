@@ -1,4 +1,5 @@
-<h1 align="center">Welcome to atos-r 👋</h1>
+<div align="center">
+<h1>A Totally Open Source R container</h1>
 <p>
   <a href="https://opensource.org/licenses/MIT" target="_blank">
     <img alt="License: MIT" src="https://img.shields.io/badge/License-MIT-yellow.svg" />
@@ -6,23 +7,31 @@
   <a href="https://twitter.com/robdykedotcom" target="_blank">
     <img alt="Twitter: robdykedotcom" src="https://img.shields.io/twitter/follow/robdykedotcom.svg?style=social" />
   </a>
+  <a href="https://github.com/robdyke/atos-r" target="_blank">
+    <img alt="Github" src="https://img.shields.io/github/forks/robdyke/atos-r?style=social" />
+  </a>
 </p>
+</div>
 
-> A Totally Open Source R container
+## What is ATOS-R?
 
-### 🏠 [Homepage](https://robdyke.com/atos-r/)
+A Totally Open Source R container for NHSland.
 
-## Author
+## Why ATOS-R
 
-👤 **Rob Dyke**
+[The Register reports](https://www.theregister.com/2021/06/29/atos_nhs_foss_charges/) that NHS England pays between £6,000 and £8,000 to package up open source software. According to documents seen by The Register, requests for FOSS packages are fulfilled by outsourcer Atos, as part of its £136m agreement with the Department of Health and Social Care signed in June 2019.
 
-* Website: https://robdyke.com
-* Twitter: [@robdykedotcom](https://twitter.com/robdykedotcom)
-* Github: [@robdyke](https://github.com/robdyke)
+> Analysts within NHS England who work on strategic planning of one of the world's largest public health systems, as well as assisting with the COVID-19 response, have requested common, freely available open-source packages such as R, the statistical language, and Python, the general-purpose language.
+>
+> Management teams said these would cost between £6,000 and £8,000 for Atos to "package" for the public-sector organisation. The exact figures have not been disclosed to protect the source of the information.
+>
+> One worker at NHS England told The Register that there were also fees for updating FOSS software on NHS systems, which meant management turned down requests, creating security risks.
 
-## Show your support
 
-Give a ⭐️ if this project helped you!
+## Contributors
+
+👤 **Rob Dyke** https://robdyke.com  [@robdykedotcom](https://twitter.com/robdykedotcom) [@robdyke](https://github.com/robdyke)
+
 
 ## 📝 License
 
